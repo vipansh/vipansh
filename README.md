@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hello 👋 I'm <a href="https://vipansh-shekar.netlify.app/">Vipansh</a>
+    Hello 👋 I'm <a href="https://github.com/vipansh">Vipansh</a>
 </h1>
 
 ### 🌱 I’m currently learning ReactJS.
