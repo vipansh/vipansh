@@ -17,10 +17,10 @@
 
 ### Top languages
 
-[(https://github-readme-stats.vercel.app/api/top-langs/?username=vipansh&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook)]
-
-[(https://github-readme-stats.vercel.app/api?username=vipansh&show_icons=true&theme=radical)]
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipansh&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook" width="40%" height="70px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vipansh&show_icons=true&theme=radical" width="40%"/>
+</div>
 ## Let's connect! 🤝
 
 <div align="center">
