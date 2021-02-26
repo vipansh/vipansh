@@ -13,14 +13,14 @@
     <img src="assets/react.gif" width="70px"/>
     <img src="assets/vscode.webp" width="70px"/>
     <img src="assets/git.gif" width="100px" height="70px"/>
-    <img src="assets/linux.gif" width="70px"/>
 </div>
 
 ### Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipansh&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook)]
-[![Status](https://github-readme-stats.vercel.app/api?username=vipansh&show_icons=true&theme=radical)]
-
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipansh&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook)
+![Status](https://github-readme-stats.vercel.app/api?username=vipansh&show_icons=true&theme=radical)
+</div>
 ## Let's connect! 🤝
 
 <div align="center">
