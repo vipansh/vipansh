@@ -20,7 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipansh&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-
 (https://github-readme-stats.vercel.app/api?username=vipansh&show_icons=true&theme=radical)
 
 ## Let's connect! 🤝
@@ -31,12 +30,12 @@
             src="assets/twitter.svg"
             width="50px" />
     </a>
-   
-    <a href="https://www.instagram.com/vipansh_thakur/">
+    <a href="https://www.instagram.com/vipansh_thakur">
         <img alt="vipansh | Instagram"
             src="assets/instagram.svg"
             width="50px" />
     </a> 
+   
    
 </div>
 
