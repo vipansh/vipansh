@@ -18,8 +18,8 @@
 ### Top languages
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipansh&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook)
-![Status](https://github-readme-stats.vercel.app/api?username=vipansh&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipansh&layout=compact&theme=chartreuse-dark&hide=Jupyter%20Notebook)]
+[![Status](https://github-readme-stats.vercel.app/api?username=vipansh&show_icons=true&theme=radical)]
 </div>
 ## Let's connect! 🤝
 
